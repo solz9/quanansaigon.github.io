@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-image: url('Images/Food.jpg');
+    background-size: 100% 100vh;
+    background-repeat: no-repeat;
+    opacity: 90%;
+    padding: 15px;
+    color: #2e0602;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 5;
+    text-shadow: 2px 2px 4px grey;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.nav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px grey;
+}
+
+#comment {
+  background-color: #fff9e8   
+}
+
+#menu {
+  background-image: url('Images/Food3.jpg');
+  background-size: 100%;
+  opacity: 80%;
+}
+
+#contact {
+  background-color: #fff9e8
+}
